@@ -4,11 +4,12 @@
    "main": "index.js",
    "license": "MIT",
    "devDependencies": {
+      "nodemon": "^2.0.2",
       "sucrase": "^3.12.1",
       "typescript": "^3.8.3"
    },
    "scripts": {
-      "dev": "sucrase-node src/index.ts",
+      "dev": "nodemon src/server.ts",
       "build": ""
    }
 }
