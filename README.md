@@ -5,9 +5,14 @@ Este projeto teve como propósito o estudo básico da linguagem _typescript_ uti
 Foi desenvolvido uma API para o cadastro e consulta de usuários.
 A API é extremamente simples, pois o foco era apenas aprender a linguagem.
 
-**Documentação da API**: https://documenter.getpostman.com/view/9287081/SzKbMFJX?version=latest
+**Documentação da API**:
+https://documenter.getpostman.com/view/9287081/SzKbMFJX?version=latest
 
-###Aprendizado
+**Iniciando o projeto**:
+`$ yarn dev`
+
+### Aprendizado
+
 Segue uma lista do que aprendi de maneira informal com este projeto:
 
 1. O _typescript_ é um _javascript_ tipado, ou seja, devemos trabalhar informando os tipos de váriaveis.
