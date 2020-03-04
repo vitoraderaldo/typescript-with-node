@@ -1,6 +1,7 @@
 # API de Usuários
 
-###Contexto:
+### Contexto:
+
 Este projeto teve como propósito o estudo básico da linguagem _typescript_ utilizando o ambiente _NodeJs_.
 Foi desenvolvido uma API para o cadastro e consulta de usuários.
 A API é extremamente simples, pois o foco era apenas aprender a linguagem.
